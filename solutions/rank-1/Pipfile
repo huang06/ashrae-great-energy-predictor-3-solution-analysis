@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+xgboost = "*"
+holidays = "*"
+tqdm = "*"
+matplotlib = "*"
+seaborn = "*"
+tensorflow-macos = "*"
+tensorflow-metal = "*"
+scikit-learn = "*"
+catboost = "*"
+scipy = "*"
+lightgbm = "*"
+numpy = "*"
+
+[dev-packages]
+
+[requires]
