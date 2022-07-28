@@ -17,6 +17,8 @@ catboost = "*"
 scipy = "*"
 lightgbm = "*"
 numpy = "*"
+pyarrow = "*"
+numba = "*"
 
 [dev-packages]
 
