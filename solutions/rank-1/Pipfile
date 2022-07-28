@@ -21,5 +21,7 @@ pyarrow = "*"
 numba = "*"
 
 [dev-packages]
+ipython = "*"
+jupyterlab = "*"
 
 [requires]
