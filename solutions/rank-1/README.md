@@ -230,7 +230,7 @@ and creates `meter_split_model.pickle` within the `models` directory. It ran for
    (tensorflow_p36) $ cd ..
    ```
 
-   1. `cleanup_model` - This is also a LightGBM model trained on cleaned training set with different categorical features.
+   3. `cleanup_model` - This is also a LightGBM model trained on cleaned training set with different categorical features.
 It creates `cleanup_model.pickle` within the `models` directory. This script ran for 4 minutes.
 
    ```bash
