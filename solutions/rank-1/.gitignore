@@ -1,7 +1,8 @@
-input/*.csv
-input/*.feather
-processed/*.feather
-output/*.csv
+/input/*.csv
+/input/*.feather
+/input/preprocessed/*.pkl
+/processed/*.feather
+/output/*.csv
 *~
 *.pickle
 *.log
